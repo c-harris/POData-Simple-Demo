@@ -26,7 +26,12 @@
         "podata-simple": {
             "type": "git",
             "url": "git@github.com:c-harris/POData-Simple.git"
+        },
+        "podata": {
+            "type": "git",
+            "url": "git@github.com:c-harris/POData.git"
         }
+        
     }
 }
 
