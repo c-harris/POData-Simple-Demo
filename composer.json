@@ -1,0 +1,31 @@
+
+{
+    "name": "c-harris/POData-Simple-Demo",
+    "description": "A Demo usage of the POData-Simple library",
+    "keywords": ["odata", "podata", "rest"],
+    "homepage": "https://github.com/c-harris/POData-Simple-Demo",
+    "type": "example",
+    "license": "blank",
+    "authors": [
+        {
+            "name": "Christopher Harris",
+            "email": "c.harris@communicationinnovations.com.au",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/c-harris/POData-Simple-Demo/issues",
+        "source": "https://github.com/c-harris/POData-Simple-Demo"
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "c-harris/simple-podata": "dev-master"
+    },
+    "repositories": {
+        "podata": {
+            "type": "git",
+            "url": "git@github.com:c-harris/POData-Simple.git"
+        }
+    }
+}
+
