@@ -20,7 +20,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
-        "c-harris/simple-podata": "dev-master"
+        "c-harris/POData-Simple": "dev-master"
     },
     "repositories": {
         "podata-simple": {
