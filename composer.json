@@ -22,7 +22,7 @@
         "c-harris/simple-podata": "dev-master"
     },
     "repositories": {
-        "podata": {
+        "podata-simple": {
             "type": "git",
             "url": "git@github.com:c-harris/POData-Simple.git"
         }
